@@ -1,0 +1,16 @@
+h3 {
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+}
+
+th {
+    background: rgba(0, 17, 255, 0.525);
+}
+
+table {
+    table-layout: fixed;
+    border: 1px;
+}

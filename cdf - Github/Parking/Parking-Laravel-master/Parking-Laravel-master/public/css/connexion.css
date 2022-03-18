@@ -1,0 +1,35 @@
+.navbar {
+    background: rgba(0, 17, 255, 0.525);
+}
+
+.login-form {
+    width: 340px;
+    margin: 50px auto;
+    font-size: 15px;
+}
+
+.login-form form {
+    margin-bottom: 15px;
+    background: rgba(0, 17, 255, 0.525);
+    padding: 30px;
+    border-radius: 25px;
+}
+
+.login-form h2 {
+    margin: 0 0 15px;
+}
+
+.form-control,
+.btn {
+    min-height: 38px;
+    border-radius: 2px;
+}
+
+.btn {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+p {
+    text-align: center;
+}
